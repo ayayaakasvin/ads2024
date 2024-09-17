@@ -32,6 +32,6 @@ int main(){
 
         cout << "\n";
     }
-   
+    std::vector<int> a;
     return 0;
 }
